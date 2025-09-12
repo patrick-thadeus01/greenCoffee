@@ -1,0 +1,52 @@
+sed do eiusmod 
+tempor incidedunt ut labor et dolor magna aliqua. Ut enim ad minim veniam, quis 
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehendrit it in voluptate velit esse cillum
+dolore eu figiat nulla pariatur. Excepteur sin occaecat cupidadt non 
+proident, sunt in culpa qui officia deserunt mollit anim id es laborum.
+        
+        
+<div class="main-container">
+        <section class = "form-container">
+            <div class="title">
+                <img src="img/download.png" class="logo">
+                <h1>register now</h1>
+                <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architeto dolorum desrum minus 
+                    viniam tenetur
+                </p>
+            </div>
+            <form action = "" method="post">
+                <div class="input-field">
+                    <p>your name <sup>*</sup></p>
+                    <input type="text" name = "name" required placeholder="enter your name" maxlenght="50">
+                </div>
+                <div class="input-field">
+                    <p>your email <sup>*</sup></p>
+                    <input type="email" name = "email" required placeholder="enter your email" maxlenght="50" oninput=
+                    "this.value=this.value.replace(/\s\g, '')">
+                </div>
+                <div class="input-field">
+                    <p>your password <sup>*</sup></p>
+                    <input type="password" name = "pass" required placeholder="enter your password" maxlenght="50" oninput=
+                    "this.value=this.value.replace(/\s\g, '')">
+                </div>
+                <div class="input-field">
+                    <p>confirm pasword <sup>*</sup></p>
+                    <input type="password" name = "cpass" required placeholder="confirm your password" maxlenght="50" oninput=
+                    "this.value=this.value.replace(/\s\g, '')">
+                </div>
+                <input type="submit" name = "submit" value = "register now" class = "btn">
+                <p>already have an account ? <a href="login.php">login now</a></p>
+            </form>
+        </section>
+    </div>
+        
+        
+        
+
+        
+        
+        
+last logout 2:16:15 
+        
