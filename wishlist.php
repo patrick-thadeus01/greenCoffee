@@ -90,7 +90,7 @@
             <a href="home.php">home</a> /<span>wishlist</span>
         </div>
         <section class="products">
-           <h1 class="title">products addded in wishlist</h1>
+           <h1 class="title">products addded successfully in wishlist</h1>
            <div class="box-container">
                 <?php 
                     $grandd_total = 0;
