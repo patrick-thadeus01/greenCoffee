@@ -1,9 +1,9 @@
 <?php
 $db_name = 'mysql:host = localhost;dbname=shop_db';
 $db_user = 'root';
-$dbpassword = '';
+$db_password = '';
 
-$conn = new PDO($db_name, $db_user, $dbpassword);
+$conn = new PDO($db_name, $db_user, $db_password);
 
 function unique_id()
 {
