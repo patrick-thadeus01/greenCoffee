@@ -90,7 +90,7 @@
             <a href="home.php">home</a> /<span>wishlist</span>
         </div>
         <section class="products">
-           <h1 class="title">products addded in wishlist</h1>
+           <h1 class="title">products addded successfully in wishlist</h1>
            <div class="box-container">
                 <?php 
                     $grandd_total = 0;
@@ -141,3 +141,31 @@
     <script src="script.js"></script>
     <?php include "components/alert.php";  ?>
 </div>
+
+
+
+<div class="fb3 building-wrap">
+        <div class="fb3a window-wrap">
+          <div class="fb3-window"></div>
+          <div class="fb3-window"></div>
+          <div class="fb3-window"></div>
+        </div>
+        <div class="fb3b"></div>
+        <div class="fb3a"></div>
+        <div class="fb3b"></div>
+      </div>
+      <div class="fb4">
+        <div class="fb4a"></div>
+        <div class="fb4b">
+          <div class="fb4-window"></div>
+          <div class="fb4-window"></div>
+          <div class="fb4-window"></div>
+          <div class="fb4-window"></div>
+          <div class="fb4-window"></div>
+          <div class="fb4-window"></div>
+        </div>
+      </div>
+      <div class="fb5"></div>
+      <div class="fb6"></div>
+      <div></div>
+      <div></div>
